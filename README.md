@@ -14,7 +14,7 @@ Para desenvolver o app você vai precisar usar o endpoint do Twitch https://gith
 * iOS 8+
 * Auto Layout e Story Board.
 
-# Bonus
+# Bonus (Não é obrigatório, só se você quiser ou tiver tempo)
 
 * Usar CocoaPods ou Carthage
 * CoreData
