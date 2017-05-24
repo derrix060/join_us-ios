@@ -6,7 +6,7 @@ O objetivo do teste é fazer uma lista com a imagem e o nome do jogo e uma tela 
 
 # API
 
-Para desenvolver o app você vai precisar usar o endpoint do Twitch https://github.com/justintv/Twitch-API/blob/master/v3_resources/games.md#get-gamestop
+Para desenvolver o app você vai precisar usar o endpoint do Twitch, na versão (v3)[https://dev.twitch.tv/docs/v3/reference/games/] ou (v5)[https://dev.twitch.tv/docs/v5/reference/games/]
 
 # Requisitos Essenciais
 
